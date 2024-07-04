@@ -1,6 +1,7 @@
-## Intro
-
 Calculates aphelion and perihelion dates to hour precision based on JPL ephemeris
+
+## Requires
+tested with Python 3.11.9.  Basic enough to work with most any Python3
 
 ## Installation
 
